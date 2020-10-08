@@ -24,7 +24,7 @@ def makeListOfFiles(directory,massFiles):
             massFiles.append(massPromFile)
         
 def linkCopy(massFiles):
-    print (massFiles)
+    #print (massFiles)
     i=0
     massLinkedFiles=[]
     while i < (len(massFiles)-1):
@@ -53,7 +53,7 @@ def linkCopy(massFiles):
                 
                 
                 
-def changeCopyToLink(directory="D:\Загрузки"):
+def changeCopyToLink(directory="D:\Testdir"):
     if os.path.isdir(directory):
         massFiles=[]
         makeListOfFiles(directory,massFiles)
@@ -65,4 +65,4 @@ def changeCopyToLink(directory="D:\Загрузки"):
 
 
 
-changeCopyToLink("D:\Testdir")
+#changeCopyToLink("D:\Testdir")
