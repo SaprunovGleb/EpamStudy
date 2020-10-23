@@ -79,7 +79,7 @@ def change_copy_to_link(directory="D:\Testdir"):
         #Link copies
         link_сopy(arrFiles)
     else:
-        print("Передайте значение существующей директории")
+        print("Pass the full path of an existing directory")
 
 if __name__ == '__main__':
     # With the argument you should give full path to directory,  
