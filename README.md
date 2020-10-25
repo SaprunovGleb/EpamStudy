@@ -8,3 +8,5 @@
 Домашнее задание на 18.10.2020: 
 scvToPosgresDataBase.py программа, которая берет файл P9-ConsumerComplaints.csv в своей папке и обращаясь к существующей таблице consumercomplaints PostgreSQL вносит данные из файла.
 GetDataFromProgresDataBase.py программа, которая подключаясь к таблице consumercomplaints выдает ответы на пункты 4 и 5, запрашивая дополнительные входные данные.
+
+Домашнее задание по текстовому поиску: папка PostgresSQL
