@@ -1,0 +1,1617 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="800"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css" height="600"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.0">
+    <g class="titles" transform="translate(2,0)"/>
+    <g class="vis"
+       transform="translate(400, 300) scale(0.7075471878051758,0.7075471878051758)">
+        <text id="tag_4"
+              style="font-size: 100px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-198,-46)rotate(60)" text-anchor="middle">
+            sugar
+        </text>
+        <text id="tag_117"
+              style="font-size: 56px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(121,68)rotate(30)" text-anchor="middle">
+            urad dal
+        </text>
+        <text id="tag_6"
+              style="font-size: 56px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(32,88)rotate(0)" text-anchor="middle">
+            ghee
+        </text>
+        <text id="tag_87"
+              style="font-size: 55px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-213,32)rotate(60)" text-anchor="middle">
+            curry leaves
+        </text>
+        <text id="tag_86"
+              style="font-size: 53px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(147,-97)rotate(60)" text-anchor="middle">
+            garam masala
+        </text>
+        <text id="tag_91"
+              style="font-size: 53px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-80,-149)rotate(30)" text-anchor="middle">
+            ginger
+        </text>
+        <text id="tag_8"
+              style="font-size: 49px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(12,133)rotate(0)" text-anchor="middle">
+            milk
+        </text>
+        <text id="tag_59"
+              style="font-size: 49px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(84,-58)rotate(30)" text-anchor="middle">
+            jaggery
+        </text>
+        <text id="tag_60"
+              style="font-size: 43px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(7,-18)rotate(0)" text-anchor="middle">
+            rice flour
+        </text>
+        <text id="tag_77"
+              style="font-size: 39px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-31,-212)rotate(0)" text-anchor="middle">
+            chana dal
+        </text>
+        <text id="tag_131"
+              style="font-size: 33px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-268,-135)rotate(-60)" text-anchor="middle">
+            tomato
+        </text>
+        <text id="tag_61"
+              style="font-size: 31px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-17,162)rotate(0)" text-anchor="middle">
+            wheat flour
+        </text>
+        <text id="tag_104"
+              style="font-size: 31px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-107,-264)rotate(-60)" text-anchor="middle">
+            whole wheat flour
+        </text>
+        <text id="tag_5"
+              style="font-size: 31px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-55,-62)rotate(0)" text-anchor="middle">
+            gram flour
+        </text>
+        <text id="tag_85"
+              style="font-size: 29px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-222,90)rotate(-60)" text-anchor="middle">
+            potato
+        </text>
+        <text id="tag_47"
+              style="font-size: 27px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(89,-99)rotate(30)" text-anchor="middle">
+            coconut
+        </text>
+        <text id="tag_174"
+              style="font-size: 27px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(283,-114)rotate(-30)" text-anchor="middle">
+            sesame seeds
+        </text>
+        <text id="tag_45"
+              style="font-size: 25px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-19,39)rotate(0)" text-anchor="middle">
+            semolina
+        </text>
+        <text id="tag_13"
+              style="font-size: 25px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(154,140)rotate(0)" text-anchor="middle">
+            clarified butter
+        </text>
+        <text id="tag_16"
+              style="font-size: 25px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-129,-108)rotate(30)" text-anchor="middle">
+            saffron
+        </text>
+        <text id="tag_210"
+              style="font-size: 25px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-286,-12)rotate(60)" text-anchor="middle">
+            mustard seeds
+        </text>
+        <text id="tag_31"
+              style="font-size: 25px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-27,8)rotate(0)" text-anchor="middle">
+            cardamom
+        </text>
+        <text id="tag_114"
+              style="font-size: 25px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-319,-104)rotate(-60)" text-anchor="middle">
+            garam masala powder
+        </text>
+        <text id="tag_27"
+              style="font-size: 23px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(205,58)rotate(30)" text-anchor="middle">
+            baking soda
+        </text>
+        <text id="tag_33"
+              style="font-size: 23px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(113,-8)rotate(-60)" text-anchor="middle">
+            rice
+        </text>
+        <text id="tag_30"
+              style="font-size: 21px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(259,-52)rotate(0)" text-anchor="middle">
+            turmeric
+        </text>
+        <text id="tag_111"
+              style="font-size: 21px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(288,13)rotate(-60)" text-anchor="middle">
+            moong dal
+        </text>
+        <text id="tag_2"
+              style="font-size: 21px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(122,93)rotate(30)" text-anchor="middle">
+            yogurt
+        </text>
+        <text id="tag_176"
+              style="font-size: 21px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(249,-173)rotate(-60)" text-anchor="middle">
+            bengal gram flour
+        </text>
+        <text id="tag_53"
+              style="font-size: 21px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-93,99)rotate(30)" text-anchor="middle">
+            lemon juice
+        </text>
+        <text id="tag_198"
+              style="font-size: 21px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-299,14)rotate(60)" text-anchor="middle">
+            grated coconut
+        </text>
+        <text id="tag_107"
+              style="font-size: 21px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-292,-244)rotate(30)" text-anchor="middle">
+            all purpose flour
+        </text>
+        <text id="tag_29"
+              style="font-size: 19px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(175,-132)rotate(60)" text-anchor="middle">
+            curd
+        </text>
+        <text id="tag_72"
+              style="font-size: 19px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-62,-111)rotate(0)" text-anchor="middle">
+            salt
+        </text>
+        <text id="tag_83"
+              style="font-size: 19px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(23,-142)rotate(-60)" text-anchor="middle">
+            rava
+        </text>
+        <text id="tag_175"
+              style="font-size: 19px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-199,86)rotate(-60)" text-anchor="middle">
+            gur
+        </text>
+        <text id="tag_50"
+              style="font-size: 19px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-101,179)rotate(0)" text-anchor="middle">
+            chhena
+        </text>
+        <text id="tag_10"
+              style="font-size: 19px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-16,-175)rotate(60)" text-anchor="middle">
+            raisins
+        </text>
+        <text id="tag_92"
+              style="font-size: 19px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(101,-137)rotate(60)" text-anchor="middle">
+            garlic
+        </text>
+        <text id="tag_154"
+              style="font-size: 19px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-77,61)rotate(60)" text-anchor="middle">
+            butter
+        </text>
+        <text id="tag_32"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-65,197)rotate(0)" text-anchor="middle">
+            cottage cheese
+        </text>
+        <text id="tag_35"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(133,8)rotate(-60)" text-anchor="middle">
+            nuts
+        </text>
+        <text id="tag_217"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(94,174)rotate(-30)" text-anchor="middle">
+            tamarind
+        </text>
+        <text id="tag_156"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(65,-167)rotate(-60)" text-anchor="middle">
+            potatoes
+        </text>
+        <text id="tag_223"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(177,158)rotate(0)" text-anchor="middle">
+            black pepper
+        </text>
+        <text id="tag_9"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-174,-225)rotate(-30)" text-anchor="middle">
+            cashews
+        </text>
+        <text id="tag_57"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-224,-253)rotate(0)" text-anchor="middle">
+            fennel seeds
+        </text>
+        <text id="tag_52"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(87,104)rotate(0)" text-anchor="middle">
+            cream
+        </text>
+        <text id="tag_98"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(268,114)rotate(0)" text-anchor="middle">
+            kasuri methi
+        </text>
+        <text id="tag_180"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(313,71)rotate(0)" text-anchor="middle">
+            mustard oil
+        </text>
+        <text id="tag_137"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(175,-182)rotate(30)" text-anchor="middle">
+            bottle gourd
+        </text>
+        <text id="tag_106"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-18,-278)rotate(60)" text-anchor="middle">
+            hot water
+        </text>
+        <text id="tag_123"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(7,182)rotate(0)" text-anchor="middle">
+            arhar dal
+        </text>
+        <text id="tag_130"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(328,-72)rotate(60)" text-anchor="middle">
+            green peas
+        </text>
+        <text id="tag_3"
+              style="font-size: 17px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(163,-172)rotate(-60)" text-anchor="middle">
+            oil
+        </text>
+        <text id="tag_43"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-188,147)rotate(30)" text-anchor="middle">
+            condensed milk
+        </text>
+        <text id="tag_15"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(148,-241)rotate(-30)" text-anchor="middle">
+            pistachio
+        </text>
+        <text id="tag_166"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(37,-63)rotate(-30)" text-anchor="middle">
+            sev
+        </text>
+        <text id="tag_205"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-287,78)rotate(60)" text-anchor="middle">
+            sesame oil
+        </text>
+        <text id="tag_122"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(36,222)rotate(30)" text-anchor="middle">
+            green chilies
+        </text>
+        <text id="tag_179"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(346,28)rotate(-30)" text-anchor="middle">
+            cinnamon
+        </text>
+        <text id="tag_167"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(202,174)rotate(0)" text-anchor="middle">
+            lemon
+        </text>
+        <text id="tag_120"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(55,-273)rotate(-30)" text-anchor="middle">
+            cashew nuts
+        </text>
+        <text id="tag_11"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-107,-123)rotate(30)" text-anchor="middle">
+            flour
+        </text>
+        <text id="tag_49"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(18,-185)rotate(30)" text-anchor="middle">
+            dry fruits
+        </text>
+        <text id="tag_37"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-8,-98)rotate(-30)" text-anchor="middle">
+            besan
+        </text>
+        <text id="tag_99"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(185,-1)rotate(60)" text-anchor="middle">
+            tomatoes
+        </text>
+        <text id="tag_219"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-54,-259)rotate(-30)" text-anchor="middle">
+            raw rice
+        </text>
+        <text id="tag_19"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-170,-275)rotate(0)" text-anchor="middle">
+            plain flour
+        </text>
+        <text id="tag_132"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-50,218)rotate(0)" text-anchor="middle">
+            green chili
+        </text>
+        <text id="tag_203"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(188,-233)rotate(-60)" text-anchor="middle">
+            red chilli
+        </text>
+        <text id="tag_82"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-272,-37)rotate(60)" text-anchor="middle">
+            cucumber
+        </text>
+        <text id="tag_138"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(272,150)rotate(30)" text-anchor="middle">
+            coconut oil
+        </text>
+        <text id="tag_225"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(121,194)rotate(-60)" text-anchor="middle">
+            mustard
+        </text>
+        <text id="tag_22"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(296,-76)rotate(60)" text-anchor="middle">
+            rose water
+        </text>
+        <text id="tag_100"
+              style="font-size: 15px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-281,122)rotate(60)" text-anchor="middle">
+            chili powder
+        </text>
+        <text id="tag_105"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-320,33)rotate(-30)" text-anchor="middle">
+            olive oil
+        </text>
+        <text id="tag_125"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(166,-1)rotate(60)" text-anchor="middle">
+            dough
+        </text>
+        <text id="tag_102"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-198,177)rotate(-60)" text-anchor="middle">
+            red onion
+        </text>
+        <text id="tag_157"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-164,195)rotate(0)" text-anchor="middle">
+            khus khus
+        </text>
+        <text id="tag_64"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-345,-145)rotate(-30)" text-anchor="middle">
+            vegetable oil
+        </text>
+        <text id="tag_133"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(155,185)rotate(-30)" text-anchor="middle">
+            paneer
+        </text>
+        <text id="tag_25"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-115,105)rotate(30)" text-anchor="middle">
+            maida
+        </text>
+        <text id="tag_89"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(47,-197)rotate(0)" text-anchor="middle">
+            peas
+        </text>
+        <text id="tag_14"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-51,69)rotate(60)" text-anchor="middle">
+            almonds
+        </text>
+        <text id="tag_38"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(33,-317)rotate(-60)" text-anchor="middle">
+            powdered sugar
+        </text>
+        <text id="tag_23"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-290,136)rotate(60)" text-anchor="middle">
+            sugar syrup
+        </text>
+        <text id="tag_115"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-357,-90)rotate(-60)" text-anchor="middle">
+            green chilli
+        </text>
+        <text id="tag_194"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(182,222)rotate(60)" text-anchor="middle">
+            fresh coconut
+        </text>
+        <text id="tag_215"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-84,131)rotate(0)" text-anchor="middle">
+            beans
+        </text>
+        <text id="tag_1"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-127,214)rotate(0)" text-anchor="middle">
+            maida flour
+        </text>
+        <text id="tag_208"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(212,-258)rotate(30)" text-anchor="middle">
+            sambar powder
+        </text>
+        <text id="tag_201"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(110,-273)rotate(60)" text-anchor="middle">
+            thick poha
+        </text>
+        <text id="tag_90"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(246,-34)rotate(0)" text-anchor="middle">
+            chillies
+        </text>
+        <text id="tag_26"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(294,94)rotate(0)" text-anchor="middle">
+            corn flour
+        </text>
+        <text id="tag_187"
+              style="font-size: 13px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(148,9)rotate(-60)" text-anchor="middle">
+            carrot
+        </text>
+        <text id="tag_119"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(238,183)rotate(-30)" text-anchor="middle">
+            baby potatoes
+        </text>
+        <text id="tag_96"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-45,174)rotate(0)" text-anchor="middle">
+            chole
+        </text>
+        <text id="tag_255"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(285,-164)rotate(0)" text-anchor="middle">
+            pomegranate
+        </text>
+        <text id="tag_299"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-102,-37)rotate(30)" text-anchor="middle">
+            brinjal
+        </text>
+        <text id="tag_230"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(93,241)rotate(60)" text-anchor="middle">
+            black sesame seeds
+        </text>
+        <text id="tag_146"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-319,-220)rotate(60)" text-anchor="middle">
+            chickpea flour
+        </text>
+        <text id="tag_293"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-73,-284)rotate(-60)" text-anchor="middle">
+            ridge gourd
+        </text>
+        <text id="tag_143"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-111,-147)rotate(0)" text-anchor="middle">
+            palak
+        </text>
+        <text id="tag_116"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-151,-322)rotate(60)" text-anchor="middle">
+            red kidney beans
+        </text>
+        <text id="tag_238"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-336,85)rotate(60)" text-anchor="middle">
+            pearl millet flour
+        </text>
+        <text id="tag_200"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(77,-142)rotate(60)" text-anchor="middle">
+            idli rice
+        </text>
+        <text id="tag_305"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-119,229)rotate(0)" text-anchor="middle">
+            brown rice
+        </text>
+        <text id="tag_186"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(104,116)rotate(0)" text-anchor="middle">
+            french beans
+        </text>
+        <text id="tag_241"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-214,169)rotate(-60)" text-anchor="middle">
+            jowar flour
+        </text>
+        <text id="tag_129"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-102,56)rotate(30)" text-anchor="middle">
+            fennel
+        </text>
+        <text id="tag_197"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(133,224)rotate(60)" text-anchor="middle">
+            rock salt
+        </text>
+        <text id="tag_93"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(119,-300)rotate(60)" text-anchor="middle">
+            fenugreek leaves
+        </text>
+        <text id="tag_128"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(249,195)rotate(-30)" text-anchor="middle">
+            bitter gourd
+        </text>
+        <text id="tag_36"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(344,111)rotate(60)" text-anchor="middle">
+            refined flour
+        </text>
+        <text id="tag_55"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-196,108)rotate(-30)" text-anchor="middle">
+            chenna
+        </text>
+        <text id="tag_221"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-344,1)rotate(-30)" text-anchor="middle">
+            drumsticks
+        </text>
+        <text id="tag_259"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-173,127)rotate(60)" text-anchor="middle">
+            green
+        </text>
+        <text id="tag_270"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-364,36)rotate(-30)" text-anchor="middle">
+            white sesame seeds
+        </text>
+        <text id="tag_216"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(276,-15)rotate(-60)" text-anchor="middle">
+            cabbage
+        </text>
+        <text id="tag_141"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-283,178)rotate(0)" text-anchor="middle">
+            nigella seeds
+        </text>
+        <text id="tag_170"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-404,-58)rotate(60)" text-anchor="middle">
+            edible gum
+        </text>
+        <text id="tag_173"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(369,56)rotate(60)" text-anchor="middle">
+            arbi ke patte
+        </text>
+        <text id="tag_118"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-206,-300)rotate(-60)" text-anchor="middle">
+            pigeon peas
+        </text>
+        <text id="tag_17"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-209,216)rotate(0)" text-anchor="middle">
+            green cardamom
+        </text>
+        <text id="tag_275"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(51,199)rotate(-60)" text-anchor="middle">
+            gobi
+        </text>
+        <text id="tag_204"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-7,232)rotate(0)" text-anchor="middle">
+            black salt
+        </text>
+        <text id="tag_103"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(260,205)rotate(-30)" text-anchor="middle">
+            avocado oil
+        </text>
+        <text id="tag_199"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-336,143)rotate(0)" text-anchor="middle">
+            split urad dal
+        </text>
+        <text id="tag_58"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-49,251)rotate(60)" text-anchor="middle">
+            besan flour
+        </text>
+        <text id="tag_172"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(253,-125)rotate(-30)" text-anchor="middle">
+            coriander
+        </text>
+        <text id="tag_273"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-38,-171)rotate(30)" text-anchor="middle">
+            badam
+        </text>
+        <text id="tag_253"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(87,156)rotate(-30)" text-anchor="middle">
+            aloo
+        </text>
+        <text id="tag_158"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(260,-73)rotate(0)" text-anchor="middle">
+            low fat
+        </text>
+        <text id="tag_95"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-371,-152)rotate(-30)" text-anchor="middle">
+            amchur powder
+        </text>
+        <text id="tag_209"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-261,201)rotate(0)" text-anchor="middle">
+            spinach
+        </text>
+        <text id="tag_240"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-382,115)rotate(-30)" text-anchor="middle">
+            desiccated coconut
+        </text>
+        <text id="tag_177"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-259,-124)rotate(-60)" text-anchor="middle">
+            imli
+        </text>
+        <text id="tag_76"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(199,216)rotate(60)" text-anchor="middle">
+            chickpeas
+        </text>
+        <text id="tag_80"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(187,-155)rotate(30)" text-anchor="middle">
+            banana
+        </text>
+        <text id="tag_21"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(50,41)rotate(30)" text-anchor="middle">
+            water
+        </text>
+        <text id="tag_148"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(202,-192)rotate(60)" text-anchor="middle">
+            malai
+        </text>
+        <text id="tag_39"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(280,134)rotate(30)" text-anchor="middle">
+            yoghurt
+        </text>
+        <text id="tag_242"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-66,-91)rotate(0)" text-anchor="middle">
+            sesame
+        </text>
+        <text id="tag_155"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-372,-99)rotate(-60)" text-anchor="middle">
+            green beans
+        </text>
+        <text id="tag_294"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(63,-261)rotate(-30)" text-anchor="middle">
+            dry coconut
+        </text>
+        <text id="tag_18"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(200,-221)rotate(-60)" text-anchor="middle">
+            milk powder
+        </text>
+        <text id="tag_268"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-233,149)rotate(0)" text-anchor="middle">
+            mango
+        </text>
+        <text id="tag_226"
+              style="font-size: 11px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(8,248)rotate(0)" text-anchor="middle">
+            cooked rice
+        </text>
+        <text id="tag_283"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(57,263)rotate(0)" text-anchor="middle">
+            sweet potato
+        </text>
+        <text id="tag_94"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-86,258)rotate(-30)" text-anchor="middle">
+            shimla mirch
+        </text>
+        <text id="tag_260"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(169,108)rotate(30)" text-anchor="middle">
+            sauce
+        </text>
+        <text id="tag_160"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(45,-289)rotate(-30)" text-anchor="middle">
+            greek yogurt
+        </text>
+        <text id="tag_62"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-323,160)rotate(0)" text-anchor="middle">
+            sweetened milk
+        </text>
+        <text id="tag_280"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(299,-193)rotate(-30)" text-anchor="middle">
+            sunflower oil
+        </text>
+        <text id="tag_41"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(341,-112)rotate(30)" text-anchor="middle">
+            kitchen lime
+        </text>
+        <text id="tag_151"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(185,-299)rotate(0)" text-anchor="middle">
+            frozen green peas
+        </text>
+        <text id="tag_78"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(346,-78)rotate(60)" text-anchor="middle">
+            apricots
+        </text>
+        <text id="tag_147"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(351,-10)rotate(-60)" text-anchor="middle">
+            mushroom
+        </text>
+        <text id="tag_291"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(383,-15)rotate(-30)" text-anchor="middle">
+            methi leaves
+        </text>
+        <text id="tag_191"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-411,-110)rotate(30)" text-anchor="middle">
+            long beans
+        </text>
+        <text id="tag_164"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(158,239)rotate(60)" text-anchor="middle">
+            mashed potato
+        </text>
+        <text id="tag_113"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-6,271)rotate(-60)" text-anchor="middle">
+            almond
+        </text>
+        <text id="tag_70"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(278,-258)rotate(30)" text-anchor="middle">
+            dharwadi buffalo milk
+        </text>
+        <text id="tag_66"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-376,-202)rotate(-60)" text-anchor="middle">
+            cardamom powder
+        </text>
+        <text id="tag_112"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(82,-251)rotate(-30)" text-anchor="middle">
+            masoor dal
+        </text>
+        <text id="tag_51"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(355,-184)rotate(0)" text-anchor="middle">
+            chenna cheese
+        </text>
+        <text id="tag_184"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-162,252)rotate(30)" text-anchor="middle">
+            white bread slices
+        </text>
+        <text id="tag_321"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(361,-213)rotate(0)" text-anchor="middle">
+            ginger powder
+        </text>
+        <text id="tag_263"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(60,280)rotate(0)" text-anchor="middle">
+            whole wheat rava
+        </text>
+        <text id="tag_287"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-324,196)rotate(0)" text-anchor="middle">
+            fresh green peas
+        </text>
+        <text id="tag_251"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(222,-197)rotate(60)" text-anchor="middle">
+            kokum
+        </text>
+        <text id="tag_290"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-14,-326)rotate(30)" text-anchor="middle">
+            peanut oil
+        </text>
+        <text id="tag_279"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-54,-289)rotate(-60)" text-anchor="middle">
+            khaman
+        </text>
+        <text id="tag_319"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-387,87)rotate(-30)" text-anchor="middle">
+            dried rose petals
+        </text>
+        <text id="tag_7"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-40,238)rotate(60)" text-anchor="middle">
+            carrots
+        </text>
+        <text id="tag_224"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-231,263)rotate(-60)" text-anchor="middle">
+            green moong beans
+        </text>
+        <text id="tag_235"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(49,-315)rotate(-60)" text-anchor="middle">
+            masala
+        </text>
+        <text id="tag_75"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-404,169)rotate(-60)" text-anchor="middle">
+            skimmed milk powder
+        </text>
+        <text id="tag_188"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-314,45)rotate(-30)" text-anchor="middle">
+            kala jeera
+        </text>
+        <text id="tag_289"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-34,-244)rotate(0)" text-anchor="middle">
+            red chillies
+        </text>
+        <text id="tag_135"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-250,250)rotate(-60)" text-anchor="middle">
+            falooda sev
+        </text>
+        <text id="tag_266"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-58,288)rotate(60)" text-anchor="middle">
+            boiled potatoes
+        </text>
+        <text id="tag_300"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(252,-144)rotate(-30)" text-anchor="middle">
+            onions
+        </text>
+        <text id="tag_181"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(304,130)rotate(60)" text-anchor="middle">
+            sattu
+        </text>
+        <text id="tag_295"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-407,31)rotate(0)" text-anchor="middle">
+            sticky rice
+        </text>
+        <text id="tag_310"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-285,225)rotate(60)" text-anchor="middle">
+            soaked rice
+        </text>
+        <text id="tag_81"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-273,-277)rotate(0)" text-anchor="middle">
+            khus-khus seeds
+        </text>
+        <text id="tag_161"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-110,285)rotate(0)" text-anchor="middle">
+            tandoori masala
+        </text>
+        <text id="tag_307"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(167,276)rotate(30)" text-anchor="middle">
+            fermented bamboo shoot
+        </text>
+        <text id="tag_206"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(362,-143)rotate(-60)" text-anchor="middle">
+            drumstick
+        </text>
+        <text id="tag_183"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(146,-225)rotate(-30)" text-anchor="middle">
+            filling
+        </text>
+        <text id="tag_257"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-107,-343)rotate(-30)" text-anchor="middle">
+            bhuna chana
+        </text>
+        <text id="tag_316"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(334,174)rotate(-60)" text-anchor="middle">
+            coconut milk
+        </text>
+        <text id="tag_284"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-379,-230)rotate(-60)" text-anchor="middle">
+            surti papdi
+        </text>
+        <text id="tag_109"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-233,172)rotate(-60)" text-anchor="middle">
+            bay leaf
+        </text>
+        <text id="tag_281"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-50,-337)rotate(-60)" text-anchor="middle">
+            rice flakes
+        </text>
+        <text id="tag_317"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(374,-51)rotate(60)" text-anchor="middle">
+            egg yolks
+        </text>
+        <text id="tag_237"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(84,-175)rotate(60)" text-anchor="middle">
+            sooji
+        </text>
+        <text id="tag_265"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(86,-335)rotate(-60)" text-anchor="middle">
+            litre milk
+        </text>
+        <text id="tag_297"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(138,-337)rotate(60)" text-anchor="middle">
+            raw papaya
+        </text>
+        <text id="tag_74"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(292,188)rotate(60)" text-anchor="middle">
+            mung bean
+        </text>
+        <text id="tag_97"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-238,-303)rotate(-30)" text-anchor="middle">
+            ladies finger
+        </text>
+        <text id="tag_298"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-236,-354)rotate(-60)" text-anchor="middle">
+            panch phoran masala
+        </text>
+        <text id="tag_236"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-151,244)rotate(30)" text-anchor="middle">
+            kala masala
+        </text>
+        <text id="tag_252"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-47,138)rotate(0)" text-anchor="middle">
+            pav
+        </text>
+        <text id="tag_110"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(18,-356)rotate(-30)" text-anchor="middle">
+            cinnamon stick
+        </text>
+        <text id="tag_218"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-216,-336)rotate(-30)" text-anchor="middle">
+            gooseberry
+        </text>
+        <text id="tag_20"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(373,-255)rotate(-60)" text-anchor="middle">
+            baking powder
+        </text>
+        <text id="tag_67"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-186,272)rotate(60)" text-anchor="middle">
+            cashews and raisins
+        </text>
+        <text id="tag_214"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-348,-14)rotate(-30)" text-anchor="middle">
+            red chili
+        </text>
+        <text id="tag_278"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-165,-312)rotate(60)" text-anchor="middle">
+            sabudana
+        </text>
+        <text id="tag_286"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-347,215)rotate(0)" text-anchor="middle">
+            green garlic chutney
+        </text>
+        <text id="tag_320"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-313,259)rotate(30)" text-anchor="middle">
+            arrowroot powder
+        </text>
+        <text id="tag_40"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-6,301)rotate(-60)" text-anchor="middle">
+            firm white pumpkin
+        </text>
+        <text id="tag_303"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-351,-246)rotate(60)" text-anchor="middle">
+            yellow moong daal
+        </text>
+        <text id="tag_248"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-94,243)rotate(-30)" text-anchor="middle">
+            coconut ice
+        </text>
+        <text id="tag_229"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(237,-265)rotate(30)" text-anchor="middle">
+            thin rice flakes
+        </text>
+        <text id="tag_134"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(49,293)rotate(0)" text-anchor="middle">
+            rose syrup
+        </text>
+        <text id="tag_153"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-148,-156)rotate(-30)" text-anchor="middle">
+            honey
+        </text>
+        <text id="tag_169"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(8,312)rotate(-60)" text-anchor="middle">
+            poppy seeds
+        </text>
+        <text id="tag_124"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-225,284)rotate(-60)" text-anchor="middle">
+            white urad dal
+        </text>
+        <text id="tag_314"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-203,293)rotate(-60)" text-anchor="middle">
+            watercress
+        </text>
+        <text id="tag_108"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(125,-321)rotate(60)" text-anchor="middle">
+            bhatura
+        </text>
+        <text id="tag_233"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-394,-239)rotate(-60)" text-anchor="middle">
+            steamer
+        </text>
+        <text id="tag_88"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-356,171)rotate(0)" text-anchor="middle">
+            bread crumbs
+        </text>
+        <text id="tag_272"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(247,227)rotate(-30)" text-anchor="middle">
+            cilantro
+        </text>
+        <text id="tag_202"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-307,-327)rotate(60)" text-anchor="middle">
+            yellow mustard
+        </text>
+        <text id="tag_231"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(246,152)rotate(30)" text-anchor="middle">
+            sevai
+        </text>
+        <text id="tag_312"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-373,244)rotate(-30)" text-anchor="middle">
+            cardamom pods
+        </text>
+        <text id="tag_306"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(288,-215)rotate(-60)" text-anchor="middle">
+            soy sauce
+        </text>
+        <text id="tag_271"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(145,278)rotate(30)" text-anchor="middle">
+            dry roasted
+        </text>
+        <text id="tag_69"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-243,-190)rotate(60)" text-anchor="middle">
+            peanuts
+        </text>
+        <text id="tag_150"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(261,246)rotate(-60)" text-anchor="middle">
+            canned coconut milk
+        </text>
+        <text id="tag_159"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(409,103)rotate(-30)" text-anchor="middle">
+            whipping cream
+        </text>
+        <text id="tag_196"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(378,-199)rotate(0)" text-anchor="middle">
+            blend rice
+        </text>
+        <text id="tag_249"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(178,243)rotate(60)" text-anchor="middle">
+            red food coloring
+        </text>
+        <text id="tag_228"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-55,-194)rotate(0)" text-anchor="middle">
+            eggplant
+        </text>
+        <text id="tag_256"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-355,115)rotate(-30)" text-anchor="middle">
+            star anise
+        </text>
+        <text id="tag_142"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(56,173)rotate(0)" text-anchor="middle">
+            chilli
+        </text>
+        <text id="tag_163"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-153,-364)rotate(60)" text-anchor="middle">
+            kala chana
+        </text>
+        <text id="tag_71"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-45,285)rotate(60)" text-anchor="middle">
+            loaf bread
+        </text>
+        <text id="tag_258"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-314,72)rotate(0)" text-anchor="middle">
+            dates
+        </text>
+        <text id="tag_24"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-92,308)rotate(-30)" text-anchor="middle">
+            lentil flour
+        </text>
+        <text id="tag_244"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-85,-135)rotate(-30)" text-anchor="middle">
+            fry
+        </text>
+        <text id="tag_301"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-333,-310)rotate(30)" text-anchor="middle">
+            biryani masala
+        </text>
+        <text id="tag_212"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(336,212)rotate(-30)" text-anchor="middle">
+            fenugreek seeds
+        </text>
+        <text id="tag_178"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-307,235)rotate(30)" text-anchor="middle">
+            tea bags
+        </text>
+        <text id="tag_48"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-95,74)rotate(30)" text-anchor="middle">
+            molu leaf
+        </text>
+        <text id="tag_285"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(323,-253)rotate(30)" text-anchor="middle">
+            valor papdi
+        </text>
+        <text id="tag_246"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(257,-288)rotate(30)" text-anchor="middle">
+            dried mango
+        </text>
+        <text id="tag_243"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-131,308)rotate(-30)" text-anchor="middle">
+            citric acid
+        </text>
+        <text id="tag_139"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-77,327)rotate(-60)" text-anchor="middle">
+            green chillies
+        </text>
+        <text id="tag_193"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-306,297)rotate(60)" text-anchor="middle">
+            split pigeon peas
+        </text>
+        <text id="tag_220"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(269,257)rotate(-60)" text-anchor="middle">
+            pearl onions
+        </text>
+        <text id="tag_227"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(133,308)rotate(30)" text-anchor="middle">
+            brown rice flour
+        </text>
+        <text id="tag_121"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(320,251)rotate(-30)" text-anchor="middle">
+            beaten rice flakes
+        </text>
+        <text id="tag_101"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(172,-336)rotate(60)" text-anchor="middle">
+            tomato paste
+        </text>
+        <text id="tag_282"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-2,-372)rotate(-30)" text-anchor="middle">
+            sorghum flour
+        </text>
+        <text id="tag_68"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(83,-358)rotate(-60)" text-anchor="middle">
+            jaggery syrup
+        </text>
+        <text id="tag_12"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-388,74)rotate(-30)" text-anchor="middle">
+            kewra
+        </text>
+        <text id="tag_296"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(82,319)rotate(-60)" text-anchor="middle">
+            orange rind
+        </text>
+        <text id="tag_149"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(55,306)rotate(0)" text-anchor="middle">
+            capsicum
+        </text>
+        <text id="tag_28"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-211,-234)rotate(0)" text-anchor="middle">
+            vinegar
+        </text>
+        <text id="tag_213"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(230,-347)rotate(-60)" text-anchor="middle">
+            amaranth leaves
+        </text>
+        <text id="tag_311"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(267,306)rotate(-60)" text-anchor="middle">
+            basmati rice
+        </text>
+        <text id="tag_239"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(232,-219)rotate(60)" text-anchor="middle">
+            mawa
+        </text>
+        <text id="tag_292"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-61,338)rotate(-60)" text-anchor="middle">
+            white flour
+        </text>
+        <text id="tag_42"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-399,-267)rotate(-60)" text-anchor="middle">
+            alum powder
+        </text>
+        <text id="tag_245"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(357,166)rotate(-60)" text-anchor="middle">
+            chana daal
+        </text>
+        <text id="tag_144"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(27,334)rotate(60)" text-anchor="middle">
+            makki atta
+        </text>
+        <text id="tag_189"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-403,-150)rotate(-30)" text-anchor="middle">
+            raw banana
+        </text>
+        <text id="tag_171"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-376,279)rotate(-30)" text-anchor="middle">
+            chopped tomatoes
+        </text>
+        <text id="tag_250"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-197,121)rotate(60)" text-anchor="middle">
+            dal
+        </text>
+        <text id="tag_261"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-190,334)rotate(-60)" text-anchor="middle">
+            sliced almonds
+        </text>
+        <text id="tag_145"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(131,320)rotate(30)" text-anchor="middle">
+            mustard green
+        </text>
+        <text id="tag_262"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(328,157)rotate(-60)" text-anchor="middle">
+            toor dal
+        </text>
+        <text id="tag_73"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-148,335)rotate(0)" text-anchor="middle">
+            black lentils
+        </text>
+        <text id="tag_79"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-210,343)rotate(-60)" text-anchor="middle">
+            vermicelli pudding
+        </text>
+        <text id="tag_304"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(382,162)rotate(-60)" text-anchor="middle">
+            whole red
+        </text>
+        <text id="tag_185"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(43,333)rotate(60)" text-anchor="middle">
+            baby corn
+        </text>
+        <text id="tag_277"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(114,345)rotate(0)" text-anchor="middle">
+            raw peanuts
+        </text>
+        <text id="tag_264"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(186,312)rotate(60)" text-anchor="middle">
+            chia seed
+        </text>
+        <text id="tag_274"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-60,-385)rotate(0)" text-anchor="middle">
+            pav bhaji masala
+        </text>
+        <text id="tag_54"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(314,-293)rotate(60)" text-anchor="middle">
+            coconut flakes
+        </text>
+        <text id="tag_269"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-23,361)rotate(-30)" text-anchor="middle">
+            green chili paste
+        </text>
+        <text id="tag_192"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-182,-292)rotate(0)" text-anchor="middle">
+            tindora
+        </text>
+        <text id="tag_168"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(369,257)rotate(-30)" text-anchor="middle">
+            musk melon seeds
+        </text>
+        <text id="tag_65"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-428,99)rotate(-60)" text-anchor="middle">
+            elachi
+        </text>
+        <text id="tag_140"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-268,324)rotate(60)" text-anchor="middle">
+            roasted gram flour
+        </text>
+        <text id="tag_207"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-315,311)rotate(60)" text-anchor="middle">
+            tamarind paste
+        </text>
+        <text id="tag_44"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(22,-168)rotate(30)" text-anchor="middle">
+            spices
+        </text>
+        <text id="tag_84"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-167,279)rotate(60)" text-anchor="middle">
+            cauliflower
+        </text>
+        <text id="tag_313"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-339,296)rotate(60)" text-anchor="middle">
+            red pepper
+        </text>
+        <text id="tag_309"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-125,362)rotate(60)" text-anchor="middle">
+            tea leaves
+        </text>
+        <text id="tag_267"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-290,-326)rotate(60)" text-anchor="middle">
+            rapeseed oil
+        </text>
+        <text id="tag_302"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(271,-343)rotate(-60)" text-anchor="middle">
+            mixed vegetables
+        </text>
+        <text id="tag_182"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-1,-118)rotate(-30)" text-anchor="middle">
+            atta
+        </text>
+        <text id="tag_318"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-379,-312)rotate(0)" text-anchor="middle">
+            dry dates
+        </text>
+        <text id="tag_162"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-101,-374)rotate(0)" text-anchor="middle">
+            bell pepper
+        </text>
+        <text id="tag_247"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(326,-304)rotate(60)" text-anchor="middle">
+            nestle cream
+        </text>
+        <text id="tag_190"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(185,-372)rotate(0)" text-anchor="middle">
+            elephant foot yam
+        </text>
+        <text id="tag_315"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(217,334)rotate(-30)" text-anchor="middle">
+            glutinous rice
+        </text>
+        <text id="tag_126"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(243,-344)rotate(-60)" text-anchor="middle">
+            bell peppers
+        </text>
+        <text id="tag_254"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-187,-196)rotate(-30)" text-anchor="middle">
+            peanut
+        </text>
+        <text id="tag_195"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(229, 196, 148); cursor: pointer; user-select: none;"
+              transform="translate(-360,320)rotate(60)" text-anchor="middle">
+            whole urad dal
+        </text>
+        <text id="tag_46"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(179, 179, 179); cursor: pointer; user-select: none;"
+              transform="translate(-137,-141)rotate(30)" text-anchor="middle">
+            khoa
+        </text>
+        <text id="tag_136"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-8,368)rotate(-30)" text-anchor="middle">
+            mixed nuts
+        </text>
+        <text id="tag_288"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(351,-302)rotate(60)" text-anchor="middle">
+            moong beans
+        </text>
+        <text id="tag_308"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(-385,193)rotate(-30)" text-anchor="middle">
+            dry chilli
+        </text>
+        <text id="tag_56"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(43,-397)rotate(30)" text-anchor="middle">
+            fried milk power
+        </text>
+        <text id="tag_34"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(317,303)rotate(60)" text-anchor="middle">
+            dried fruits
+        </text>
+        <text id="tag_211"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-405,1)rotate(-60)" text-anchor="middle">
+            greens
+        </text>
+        <text id="tag_63"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(-354,-338)rotate(0)" text-anchor="middle">
+            reduced milk
+        </text>
+        <text id="tag_222"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(231, 138, 195); cursor: pointer; user-select: none;"
+              transform="translate(-13,-50)rotate(0)" text-anchor="middle">
+            lentils
+        </text>
+        <text id="tag_276"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(102, 194, 165); cursor: pointer; user-select: none;"
+              transform="translate(53,367)rotate(0)" text-anchor="middle">
+            dinner rolls
+        </text>
+        <text id="tag_127"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(-331,-136)rotate(-30)" text-anchor="middle">
+            gravy
+        </text>
+        <text id="tag_232"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(252, 141, 98); cursor: pointer; user-select: none;"
+              transform="translate(-162,365)rotate(30)" text-anchor="middle">
+            parboiled rice
+        </text>
+        <text id="tag_165"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(166, 216, 84); cursor: pointer; user-select: none;"
+              transform="translate(325,54)rotate(0)" text-anchor="middle">
+            boondi
+        </text>
+        <text id="tag_234"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(255, 217, 47); cursor: pointer; user-select: none;"
+              transform="translate(-408,318)rotate(0)" text-anchor="middle">
+            whole red beans
+        </text>
+        <text id="tag_152"
+              style="font-size: 10px; font-family: Impact; font-weight: bold; fill: rgb(141, 160, 203); cursor: pointer; user-select: none;"
+              transform="translate(308,339)rotate(30)" text-anchor="middle">
+            wild mushrooms
+        </text>
+    </g>
+</svg>
