@@ -22,7 +22,7 @@ def lambda_handler(event, context):
 
         Return doc: https://docs.aws.amazon.com/apigateway/latest/developerguide/set-up-lambda-proxy-integrations.html
     """
-    df = pd.DataFrame([[1,2,3],[4,5,6]], columns=['1','2', '3'])
+    # df = pd.DataFrame([[1,2,3],[4,5,6]], columns=['1','2', '3'])
     df = libdfs3.read_csv_from_s3("lambdabucketsaprunovglebinput", "airportspart.csv")
     df = libdfs3.filter_df(df, "type", "heliport")
     libdfs3.write_df_to_s3(df,"lambdabucketsaprunovglebresult","airportsfiltered.csv")
